@@ -1,0 +1,2 @@
+# -Second-Stage-Second-Life-An-AI-Concept-for-Repurposing-Falcon-9-Boosters-as-Orbital-Cleaners-
+Project “second stage, second life” is aimed to make an impact on cleaning Earth’s orbit by modifying the existing technology: to design the second stage (booster stage) of a rocket so, that after finishing its main purpose it will grab the nearby piece of space junk and take it with itself back to Earth.
